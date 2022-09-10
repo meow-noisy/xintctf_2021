@@ -1,5 +1,5 @@
 # 2021年度のOpen xINT CTFのwrite-up まとめ
-表が見づらく恐縮ですが、4行目からがwrite-upで、その行のwrite-upにおいて○がついている列の問題が扱われているという意味です。  
+表が見づらく恐縮ですが、4行目からがwrite-upで、その行において○がついている列の問題がwrite-up内で扱われているという意味です。  
 列数(問題数)はだいぶ長いので右へスクロールする必要があります。
 
 |           |問題名→                                                                                                                                |EGG|SUB|Maple|Regular|DISK|delish|Afganistan|WHOIS|past cetificate|Plate|dissertation|waitress|e-bike|Duolingo|ma nails|TOKYO2020|BUS|soar to new heights|Village|JELLY FISH|pilgrimage|North|
